@@ -1,1 +1,1 @@
-# TejashreeGanesan-CraveIt-----Swiggy-like-app
+# CraveIt-----Swiggy-like-app
